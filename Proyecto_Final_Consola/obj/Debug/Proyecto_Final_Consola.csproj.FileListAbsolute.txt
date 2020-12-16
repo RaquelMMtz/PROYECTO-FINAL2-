@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Proyecto_Final_Consola\obj\Debug\Proyecto_Final_Consola.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Proyecto_Final_Consola\obj\Debug\Proyecto_Final_Consola.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Proyecto_Final_Consola\bin\Debug\Proyecto_Final_Consola.exe.config
+C:\Users\USER\source\repos\Proyecto_Final_Consola\bin\Debug\Proyecto_Final_Consola.exe
+C:\Users\USER\source\repos\Proyecto_Final_Consola\bin\Debug\Proyecto_Final_Consola.pdb
+C:\Users\USER\source\repos\Proyecto_Final_Consola\obj\Debug\Proyecto_Final_Consola.exe
+C:\Users\USER\source\repos\Proyecto_Final_Consola\obj\Debug\Proyecto_Final_Consola.pdb
